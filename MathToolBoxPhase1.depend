@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506139850 source:c:\users\wtwai\desktop\engg1110(1)\mathtoolboxphase1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
